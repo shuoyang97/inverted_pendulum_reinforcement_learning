@@ -10,7 +10,7 @@
     ```
     conda activate robot-learning-ex4
     ```
-  4. For Problem 3.1 c, d, e, f run:
+  4. run:
     ```
     python code/inverted_pendulum.py
     ```
